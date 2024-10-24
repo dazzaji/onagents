@@ -1,6 +1,7 @@
 # Dazza Greenwood, On Agents
-> [OnAgents.org](https://onagents.org)
-> [View Me on GitHub](https://github.com/dazzaji/onagents)
+
+* [OnAgents.org](https://onagents.org)
+* [View Me on GitHub](https://github.com/dazzaji/onagents)
 
 
 1 Personal Backgrounders
