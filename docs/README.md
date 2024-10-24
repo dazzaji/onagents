@@ -1,12 +1,12 @@
 # Dazza Greenwood, On Agents
 
-I'll be collecting and sharing my throughts, and some new work, on LLM-based agents here at [OnAgents.org](https://onagents.org).
+I'll be collecting and sharing my thoughts, and some new work, on LLM-based agents here at [OnAgents.org](https://onagents.org). 
 
 This is very much a work in progras and I'll be adding content to this site for awhile.
 
 Here is my tentative outline of major content categories:
 
-1 [Background Materials](1_background/)
+1 [Background Materials](background/)
 
 2 Agento Project
 
