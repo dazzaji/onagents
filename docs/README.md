@@ -4,7 +4,7 @@
 * [View Me on GitHub](https://github.com/dazzaji/onagents)
 
 
-1 Personal Backgrounders
+1 [Personal Backgrounders](https://github.com/dazzaji/onagents/blob/main/docs/1_background/README.md)
 
 2 Agento Project
 
