@@ -6,7 +6,7 @@ This is very much a work in progras and I'll be adding content to this site for 
 
 Here is my tentative outline of major content categories:
 
-1 [Background Materials](background/)
+1 [Background Materials](1_background/)
 
 2 Agento Project
 
