@@ -10,7 +10,9 @@ Recently, I introduced the Wyoming legislature to the [emerging state of LLM age
 
 And that subsequent hearing did happen, on Sept 16th, 2024.  You can enjoy the presentations and disusssion [here](https://www.dazzagreenwood.com/p/legislative-hearing-on-llm-agents). 
 
-There was a talk I gave at the most recent Stanford CodeX LLM x Legal Hackathon on the topic of LLM Agents and the Law.
+There was a talk I gave at the most recent [Stanford CodeX LLM x Legal Hackathon](https://law.stanford.edu/event/llm-x-law-hackathon-stanford-4) on the topic of LLM Agents and the Law.
+
+I spoke earlier this month of AI Agents and the Law at the [American Bar Association 2024 Artificial Intelligence and Robotics National Institute](https://www.americanbar.org/groups/science_technology/events_cle/scitech-air-ni).
 
 
 _____
