@@ -1,4 +1,23 @@
-Dazza Greenwood, On Agents
+# Dazza Greenwood, On Agents
+> [OnAgents.org](https://onagents.org)
+
+
+1 Personal Backgrounders
+
+2 Agento Project
+
+3 Agent Design Patterns
+
+4 Core Identity and Ownership
+
+5 Transactional Agents
+
+6 New Value GenSpring 
+
+
+--------------------
+
+RESEARCH MATERIALS
 
 _____
 
