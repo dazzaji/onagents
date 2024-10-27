@@ -10,18 +10,18 @@ Here is my tentative outline of major content categories:
 
 2 [Agento Project](agento/)
 
-3 Agent Design Patterns
+3 [Agent Design Patterns](patterns/)
 
 4 Core Identity and Ownership
 
 5 [Transactional Agents](transactions/)
 
-6 [Springs of New Value]
+6 [Springs of New Value](genspring/)
 
 
 --------------------
 
-RESEARCH MATERIALS
+Research Content (to be included later)
 
 _____
 
