@@ -14,9 +14,9 @@ Here is my tentative outline of major content categories:
 
 4 Core Identity and Ownership
 
-5 Transactional Agents
+5 [Transactional Agents](transactions/)
 
-6 New Value 
+6 [Springs of New Value]
 
 
 --------------------
