@@ -8,7 +8,7 @@ Here is my tentative outline of major content categories:
 
 1 [Background Materials](background/)
 
-2 Agento Project
+2 [Agento Project](agento/)
 
 3 Agent Design Patterns
 
