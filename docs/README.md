@@ -8,13 +8,13 @@ Here is my tentative outline of major content categories:
 
 1 [Background Materials](background/)
 
-2 [Agento Project](agento/)
+2 [Codename Agento](agento/)
 
 3 [Agent Design Patterns](patterns/)
 
-4 Core Identity and Ownership
+4 [Principal Agent User](principles/)
 
-5 [Transactional Agents](transactions/)
+5 [Agent Transactions](transactions/)
 
 6 [Springs of New Value](genspring/)
 
