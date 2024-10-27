@@ -12,7 +12,7 @@ Here is my tentative outline of major content categories:
 
 3 [Agent Design Patterns](patterns/)
 
-4 [Principal Agent User](principles/)
+4 [Principal Agent User](principals/)
 
 5 [Agent Transactions](transactions/)
 
