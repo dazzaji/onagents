@@ -1,0 +1,4 @@
+One way to understand and be able to make good decisions about any given LLM agent framework is to start with the patterns of communication or action that framework provides.  
+
+I want to acknowledge there are many ways to organize and operate LLM agents.  In fact, the definitions of an LLM agent, AI agent, or just an agent are up on the air right now, apparently with as many options as there are people with Twitter accounts.  For that matter, the below take on agent patterns is definitely just one possible way to identify and organize communications and actions.  I myself frequently look at other dimensions and features and see very different pictures of what the various agent frameworks are and what they do.  But the following way to think of key patterns (which I'll call, generally, "design patterns" of agent fameworks has been useful for me, and so I'll share it here.
+
