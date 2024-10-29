@@ -4,6 +4,8 @@ This page is just to collect some of the relevant stuff I've done in the past (s
 
 Back in the late 1980's I wrote my first software agent as part of a computer science class project.  It was a Lisp re-implementation of the classic Eliza program.  We worked on Vax machine.  I found some bootleg games on the Vax and that led me to discover gateways from our network (which was part of the old Bitnet) to this new thing called the "Internet".  But that's another story.
 
+In the 1990's I dove deep into the legal dimensions of autonomous agents deployed to conduct transactions on behalf of their users.  This culminated in assisting with composing the electronic agent and autonomated transactions rules during the drafting process of the Uniform Electronic Transactions Act, which is now the law of the land in the United States.  Here is one of the memo's on those provisions, to give you a sense of the key issues and options present as we formed this important legal foundation that we still rely on today.
+
 I'll fill in the gaps from student project to modern times later.
 
 Recently, I introduced the Wyoming legislature to the [emerging state of LLM agents as part of a hearing on algorithmic decision making](https://www.dazzagreenwood.com/p/testimony-on-agentic-ai-systems-and).  Here is that testimony, which concluded with a plan for me to put together and facilitate a more in-depth session on the topic at a future hearing.
