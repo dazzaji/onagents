@@ -10,13 +10,13 @@ Here is my tentative outline of major content categories:
 
 2 [Codename Agento](agento/)
 
-3 [Agent Design Patterns](patterns/)
+3 [Design Patterns](patterns/)
 
-4 [Principal Agent User](principals/)
+4 [Principal Authority](principals/)
 
 5 [Agent Transactions](transactions/)
 
-6 [Springs of New Value](genspring/)
+6 [New Value](genspring/)
 
 
 --------------------
