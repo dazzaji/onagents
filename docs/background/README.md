@@ -10,9 +10,14 @@ Recently, I introduced the Wyoming legislature to the [emerging state of LLM age
 
 And that subsequent hearing did happen, on Sept 16th, 2024.  You can enjoy the presentations and disusssion [here](https://www.dazzagreenwood.com/p/legislative-hearing-on-llm-agents).  And here are some video excerpts from those two hearings:
 
+--
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqAnASDf7mQ?si=N2co6q3MjI_okjcr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+-- 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQ1EqJMVBbE?si=z5U81m8hTxeBxF2O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+-- 
 
 There was a talk I gave at the most recent [Stanford CodeX LLM x Legal Hackathon](https://law.stanford.edu/event/llm-x-law-hackathon-stanford-4) on the topic of LLM Agents and the Law.
 
