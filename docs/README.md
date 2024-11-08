@@ -1,8 +1,3 @@
----
-layout: default
-title: Your Page Title
----
-
 # Dazza Greenwood, On Agents
 
 I'll be collecting and sharing my thoughts, and some new work, on LLM-based agents here at [OnAgents.org](https://onagents.org). 
