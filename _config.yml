@@ -1,2 +1,8 @@
-title: "On Agents"
+title: "OnAgents.org"
 description: "Exploring LLM Agent Systems with Dazza Greenwood"
+baseurl: ""
+url: "https://onagents.org"
+
+# Build settings
+markdown: kramdown
+theme: minima  # or your current theme
