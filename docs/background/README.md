@@ -1,8 +1,3 @@
----
-layout: default
-title: Your Page Title
----
-
 # Personal Background
 
 This page is just to collect some of the relevant stuff I've done in the past (sometimes the *distant* past) related to agents.
