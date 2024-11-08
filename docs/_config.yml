@@ -1,2 +1,9 @@
 title: "OnAgents.org"
 description: "Exploring LLM Agent Systems with Dazza Greenwood"
+
+defaults:
+  - 
+    scope:
+      path: ""  # Applies to all pages
+    values:
+      styles: /assets/css/style.css # Link to stylesheet
