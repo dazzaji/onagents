@@ -128,7 +128,31 @@
     </nav>
 
     <main class="main-content">
-        {{ content }}
+        {{ content | replace: 'This site is open source. Improve this page.', '' }}
+        <footer class="site-footer">
+            <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
+            <p>Created by Dazza Greenwood - <a href="https://www.dazzagreenwood.com/">Blog</a> - <a href="https://law.mit.edu/pub/dazza-greenwood">Research</a> - <a href="https://www.linkedin.com/in/dazzagreenwood/">LinkedIn</a></p>
+        </footer>
     </main>
+
+    <style>
+        .site-footer {
+            margin-top: 4rem;
+            text-align: center;
+            color: #6c757d;
+            font-size: 0.9rem;
+        }
+        
+        .site-footer a {
+            color: #495057;
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+        
+        .site-footer a:hover {
+            color: #228be6;
+            text-decoration: underline;
+        }
+    </style>
 </body>
 </html>
