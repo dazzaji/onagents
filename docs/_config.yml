@@ -1,9 +1,13 @@
 title: "OnAgents.org"
 description: "Exploring LLM Agent Systems with Dazza Greenwood"
 
+# Build settings
+markdown: kramdown
+
+# Default layout for all pages
 defaults:
   - 
     scope:
-      path: ""  # Applies to all pages
+      path: "" # Applies to all files
     values:
-      styles: /assets/css/style.css # Link to stylesheet
+      layout: default # Use our new default layout
