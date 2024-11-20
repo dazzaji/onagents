@@ -5,3 +5,5 @@ When patterned in particular ways, LLM agent systems can serve as wellsprings of
 <img src="assets/images/under-construction-1.gif" alt="Page Under Construction">
 
 <img src="https://github.com/dazzaji/onagents/blob/main/docs/assets/images/under-construction-1.gif" alt="Page Under Construction">
+
+![Page Under Construction](../assets/images/under-construction-1.gif)
