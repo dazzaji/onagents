@@ -274,5 +274,3 @@ Successful LLM agent implementations require careful consideration of:
 The field of LLM agent design continues to evolve, offering exciting opportunities for innovation and improvement. By understanding and effectively implementing these patterns and capabilities, we can build increasingly sophisticated and capable agent systems that transform how we approach complex tasks.
 
 By carefully addressing these considerations, developers can build LLM agent systems that are not only effective but also robust, ethically sound, and adaptable to future challenges.
-
-![Page Under Construction](../assets/images/under-construction-2.gif)
