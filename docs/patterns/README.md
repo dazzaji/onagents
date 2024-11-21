@@ -112,6 +112,11 @@ Shared Knowledge Base
 └── Synthesis Agent: Final Recommendations
 ```
 
+**Collaborative Model Diagram**
+
+<img width="649" alt="Collaborative Model Pattern Diagram" src="https://github.com/user-attachments/assets/88efd682-1a63-4585-b3c5-72b0739fc987">
+
+
 ### Mediated Collaboration
 A mediator agent facilitates communication between multiple agents, ensuring organized interaction and preventing conflicts. This pattern provides structure but may introduce communication overhead.
 
