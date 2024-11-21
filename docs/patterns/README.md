@@ -182,7 +182,7 @@ These core patterns are enabled by several key capabilities and considerations, 
 
 ## Tool Use and Integration
 
-LLM agents extend their capabilities through function calling, enabling interaction with external tools, APIs, and services. Effective tool integration requires careful design of the interface between agents and their tools.
+LLM agents extend their capabilities through function calling, enabling interaction with external tools, APIs, and services. This is frequently called "Tool Use" and it is [directly supported by all the top LLMs](https://github.com/simonw/llm/issues/607).  Effective tool integration requires careful design of the interface between agents and their tools.
 
 Key considerations for tool integration:
 ```
