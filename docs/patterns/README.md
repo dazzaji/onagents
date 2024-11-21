@@ -252,6 +252,9 @@ Context management is critical for LLM agent performance. The finite context win
        └── Supports personalization and historical learning.
    ```
 
+**Memory Types Diagram**
+
+<img width="507" alt="Screenshot 2024-11-20 at 10 45 49 PM" src="https://github.com/user-attachments/assets/5ee573b8-69c0-4b05-b661-d651e41f1996">
 
 
 ## Building Effective Agent Systems
