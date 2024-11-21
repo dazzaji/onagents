@@ -130,7 +130,9 @@ Mediator Agent
 
 The mediator agent facilitates communication by managing turn-taking, routing messages between experts, resolving conflicts, and ensuring that the discussion stays focused and productive.
 
+**Mediated Collaboration Pattern Diagram**
 
+<img width="1465" alt="Screenshot 2024-11-20 at 10 36 34 PM" src="https://github.com/user-attachments/assets/f36b28be-f3b2-4d19-a6ee-56911d1d8a7f">
 
 ## Combining Patterns for Enhanced Performance
 
