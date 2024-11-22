@@ -62,11 +62,24 @@ Just as vehicles are required to have clearly visible license plates when they e
 
 ## The Iron Triangle: Principal, Agent, and Third Party
 
-The relationship between users and their AI agents forms what I call the "iron triangle" of responsibility:
+The relationships between users and their AI agents and external parties forms what I call the "iron triangle" of roles:
+
+<img width="440" alt="Screenshot 2024-11-22 at 11 13 48 AM" src="https://github.com/user-attachments/assets/f191e752-44e4-4c54-bda5-177498ba70c9">
 
 1. **The Principal** (the user/consumer/employee)
 2. **The Agent** (the intermediary providing the AI agent tech for the Principal/user)
-3. **Third Parties** (companies or services the AI agent interacts with)
+3. **Third Parties** (companies or other entities the AI agent interacts with)
+
+The term “agent” itself can cause confusion, holding different meanings in the realms of software development and law. In software, it broadly refers to systems that perform tasks on behalf of users. However, the legal definition is much more specific, encompassing obligations that AI systems alone cannot fulfill.
+According to the Restatement (Second) of Agency § 1(1) (1958), agency is defined as “the fiduciary relation which results from the manifestation of consent by one person to another that the other shall act on his behalf and subject to his control, and consent by the other so to act.” 
+
+That definition might leave you scratching your head! Let's break it down. In simpler terms, 'agency' means one person agrees to act for another, like a personal assistant handling tasks for their boss. It's about a relationship built on trust, where the 'agent' is loyal to the 'principal' and follows their instructions.  The three fundamental roles, legally, are the principal, the agent, and third parties, with whom the agent interacts on behalf of the principal to get tasks done.  You can think of these three roles as a kind of iron triangle. Fiduciary duties owed by agents to principals, like the duty of loyalty, ensure the agent is legally obligated to act in the principal's best interests.  I want to emphasize that both individuals (like in our role as consumers) as well as organizations (operating through employees) using AI agent systems would be wise to prioritize working with fiduciary providers and operators of AI Agent Systems.  
+
+Now, consider this legal concept in the context of today’s rapidly evolving AI landscape. AI agents, particularly those powered by large language models (LLMs), are quickly becoming more sophisticated and widely deployed. They’re handling increasingly complex tasks for their users, including making purchases, managing finances, and even making significant decisions with real-world consequences. However, the current models governing these AI-powered interactions are often murky and lack clarity regarding the roles, responsibilities, and legal relationships between all the players involved. This lack of clarity creates uncertainty and potential risks for both consumers and businesses, hindering the widespread adoption and beneficial potential of these powerful tools.
+
+When you rely upon an AI Agent to conduct transactions for you which involve your duty to pay and that form other legal obligations, you should confirm that you are in fact the principal and the provider of the technology has not arrogated the role of principal to itself, leaving you as a user of their system who is relegated to operate under their principal authority.  Arguably, the entire framework of hundreds of years of agency law and practice exists to support and advance precisely such relationships of trust and reliance.  It is not only reasonable, but recommended, that these frameworks be applied to AI agent intermediated transactons as well, in order to ensure alignment with the user's interests and expected legal and business relationships and results.
+
+To address this challenge, we can apply the robust legal framework of agency to structure the unique context of AI Agent Systems. By clarifying the roles and relationships of each party involved – the consumer or employee as principal, the intermediary that provides the AI as a tool as Agent– we can create a model that fosters trust, predictability, and accountability. The role of the intermediary combined with the AI Agent can be called an "AI Agent System."  This allows us to build on the iron triangle of agency, leveraging hundreds of years of well-understood precedent.  This approach not only provides principals with greater certainty but also empowers third-parties to engage in AI-powered interactions with greater confidence and clarity, unlocking the tremendous benefits of this technology for all.
 
 This structure should be supported by five critical levels of system design:
 
