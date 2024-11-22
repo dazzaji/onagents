@@ -1,29 +1,14 @@
 # Dazza Greenwood, On Agents
 
-I'll be collecting and sharing my thoughts, and some new work, on LLM-based agents here at [OnAgents.org](https://onagents.org). 
+Welcome to [OnAgents.org](https://onagents.org), a site dedicated to exploring the expanding and evolving world of LLM-based agents. This site is a hub of [my collected thoughts, projects, and experiments](background/) and well as new ideas and resources for anyone interested in understanding and harnessing the power of agent systems driven by Large Language Models. From practical design patterns to the legal frameworks that shape agent transactions, OnAgents.org serves as both a repository of knowledge and a launchpad for the future of intelligent agent collaboration.
 
-This is very much a work in progras and I'll be adding content to this site for awhile.
+Currently, you can dive into foundational topics like **[Design Patterns](patterns/) for LLM Agents**, which breaks down common communication and collaboration frameworks for effective multi-agent systems, or explore the evolving field of **[Agent Transactions](transactions/)**, where we navigate the legal landscape of autonomous agents acting on behalf of their users to complete transactions, including making purchases, payments, and forming legal contracts
 
-Here is my tentative outline of major content categories:
-
-1 [Background Materials](background/)
-
-2 [Codename Agento](agento/)
-
-3 [Design Patterns](patterns/)
-
-4 [Principal Authority](principals/)
-
-5 [Agent Transactions](transactions/)
-
-6 [New Value](genspring/)
+As I continue to build out content, you can expect deeper dives into the **modular [agent codebases](agento/)**, a specific design patterns for **[new value-generation](genspring/)**, and insights into key agentic systems that are transforming the landscape of artificial intelligence. To stay updated as new material is added, subscribe for OnAgents.org updates to [DazzaGreenwood.com](https://www.dazzagreenwood.com) to get the latest posts and insights. Let's push the boundaries of what LLM agents can do, together.
 
 
---------------------
 
-Research Content (to be included later)
-
-_____
+--------------------------------------
 
 This material is distributed under the Creative Commons Attribution-ShareAlike 4.0 International license.
 
