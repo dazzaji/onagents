@@ -10,4 +10,6 @@ Notably, this question is equally important from the perspective of companies or
 
 I will use this page to provide a deeper discussion, with examples, of how the legal concept of "principal authority" can clarify and form a workable basis for trustworthy reliance upon the communications and actions of agents.
 
+For the moment, you can learn more about the concept of Principal Authority over agents in the "The Iron Triangle: Principal, Agent, and Third Party" section on the [Agent Transactions](https://onagents.org/transactions) area of this site.
+
 ![Page Under Construction](../assets/images/under-construction-1.gif)
