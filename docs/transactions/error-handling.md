@@ -452,9 +452,9 @@ Different stakeholders face unique challenges regarding transaction finality:
 - **For End Users:** Enhanced error correction options build confidence in the system.
 - **For Agent Developers:** Offering advanced, reliable error handling creates opportunities for new, value-added services.
 
-### Emerging Solutions: The Trust Protocol Stack
+### A Trust Protocol Stack
 
-A new framework, the “Trust Protocol Stack,” is emerging to address transaction finality by integrating multiple layers of assurance:
+This notional “Trust Protocol Stack,” is a way to approaching assurance of transaction finality by integrating multiple layers of assurance:
 
 
 | Layer                            | Function                                   | Business Value                  |
