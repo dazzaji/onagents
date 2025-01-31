@@ -12,9 +12,15 @@ First Draft: December 04th, 2024
 
 ## The Hidden Key to Building Trust in AI-Powered Transactions
 
-Have you ever been caught in a frustrating loop with an automated system—unable to correct a simple mistake? In the age of AI-driven commerce, every transaction managed by an LLM agent is a moment of truth. Yet hidden within the Uniform Electronic Transactions Act (UETA) is Section 10—a prescient provision that establishes clear rights for error correction and prevention. Often overlooked, this framework is not merely a compliance checkbox but the cornerstone for building scalable, trustworthy automated systems.
+In previous explorations of UETA and LLM agents, we established that the law’s broad applicability extends to modern AI-powered transactions. In this deep dive, we focus on error handling—the critical yet often neglected aspect that can determine both user trust and system resilience. Have you ever been caught in a frustrating loop with an automated system—unable to correct a simple mistake? In the age of AI Agent driven commerce, every transaction intermediated by an LLM agent is a moment of truth. Yet hidden within the Uniform Electronic Transactions Act (UETA) is Section 10 — a prescient provision that establishes clear rights and responsibilities for error correction and prevention. Often overlooked, this legal framework is not merely a compliance checkbox but also provides the cornerstone for building scalable, trustworthy AI Agent systems for conducting transaction. 
 
-In previous explorations of UETA and LLM agents, we established that the law’s broad applicability extends to modern AI-powered transactions. In this deep dive, we focus on error handling—the critical yet often neglected aspect that can determine both user trust and system resilience.
+To get into this topic, I'll borrow from a recent post I co-authored with Diana Stern published by Stanford CodeX:
+
+> By implementing a user interface and process flow that enables customers to review and correct transactions before they are finalized, providers not only comply with UETA but also establish a strong argument for ratification. If a customer has the opportunity to correct an error but chooses not to, they have arguably adopted the transaction as final. Moreover, this provision of UETA cannot be varied by contract, which means this rule allowing customers to reverse transactions will apply even if providers insert disclaimers or other contract terms insisting the customer holds all responsibility and liability for mistakes and errors committed by the Transactional Agent.
+
+> Given this is the law of the land in the U.S., with UETA enacted in 49 states, it is prudent to take these rules seriously. This design pattern – proactively building in error prevention and correction mechanisms – is therefore not just about legal compliance; it’s a fundamental aspect of responsible Transactional Agent development that helps define the point of finality and clarify the allocation of risk. But it’s also just good practice and a fair rule. By implementing these mechanisms, providers can significantly reduce their risk of liability. By embracing error avoidance and corrections protocols in the design and deployment of Transactional Agents, perhaps the most valuable benefit will not be avoiding liability for reversed transactions but legitimately earning Transactional Agent customers’ trust and reliance upon this new technology and way of doing business.
+
+With that context, let's dive in!
 
 ### Why Error Handling Matters Now More Than Ever
 
