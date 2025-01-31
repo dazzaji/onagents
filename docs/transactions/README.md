@@ -1,6 +1,6 @@
 # When Agents Conduct Transactions
 
-From a business, legal, and technical perspective, there's no more important LLM agent activity than conducting transactions. As someone deeply involved in crafting the Uniform Electronic Transactions Act (UETA) and a long-time advocate for responsible AI development, I'm struck by how much the world has changed since those UETA drafting meetings. We were grappling with e-commerce back then, but little did we know our work would be so remarkably prescient for today's LLM agents 25 years later.
+From a business, legal, and technical perspective, there's no more important LLM agent activity than conducting transactions. As someone deeply involved in crafting the Uniform Electronic Transactions Act (UETA) and a long-time advocate for responsible AI development, I'm struck by how much the world has changed since those UETA drafting meetings. We were grappling with e-commerce back then, but little did we know our work would be so [remarkably prescient](error-handling.md) for today's LLM agents 25 years later.
 
 ## Key Terms and Definitions
 
