@@ -1,7 +1,7 @@
 # UETA and LLM Agents: A Deep Dive into Legal Error Handling
 
 *Version 0.4*
-By Dazza Greenwood
+By [Dazza Greenwood](https://www.linkedin.com/in/dazzagreenwood)
 
 Last Updated: January 31st, 2025
 Third Draft: January 26th, 2025  
@@ -14,7 +14,7 @@ First Draft: December 04th, 2024
 
 In previous explorations of UETA and LLM agents, we established that the law’s broad applicability extends to modern AI-powered transactions. In this deep dive, we focus on error handling—the critical yet often neglected aspect that can determine both user trust and system resilience. Have you ever been caught in a frustrating loop with an automated system—unable to correct a simple mistake? In the age of AI Agent driven commerce, every transaction intermediated by an LLM agent is a moment of truth. Yet hidden within the Uniform Electronic Transactions Act (UETA) is Section 10 — a prescient provision that establishes clear rights and responsibilities for error correction and prevention. Often overlooked, this legal framework is not merely a compliance checkbox but also provides the cornerstone for building scalable, trustworthy AI Agent systems for conducting transaction. 
 
-To get into this topic, I'll borrow from a recent post I co-authored with Diana Stern published by Stanford CodeX:
+To get into this topic, I'll spotlight this passage from a [recent post](https://law.stanford.edu/2025/01/21/from-fine-print-to-machine-code-how-ai-agents-are-rewriting-the-rules-of-engagement-2/) I co-authored with Diana Stern published by Stanford CodeX:
 
 > By implementing a user interface and process flow that enables customers to review and correct transactions before they are finalized, providers not only comply with UETA but also establish a strong argument for ratification. If a customer has the opportunity to correct an error but chooses not to, they have arguably adopted the transaction as final. Moreover, this provision of UETA cannot be varied by contract, which means this rule allowing customers to reverse transactions will apply even if providers insert disclaimers or other contract terms insisting the customer holds all responsibility and liability for mistakes and errors committed by the Transactional Agent.
 
