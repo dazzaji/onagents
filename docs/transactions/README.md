@@ -103,6 +103,8 @@ LLM agents may make unexpected errors when conducting automated transactions. UE
 - Error detection mechanisms can trigger alerts
 - Failed security procedures may provide grounds for transaction reversal
 
+Complying with [legal requirements to provide individuals with the means to avoid or correct errors when using AI Agents](error-handling.md) to conduct transactions can also provide a cornerstone of well-earned trust by consumers and a trustworthy place in a competitive market.
+
 ### Fiduciary Duty and Trust
 
 The most compelling use case for AI Agent Systems is their ability to act as fiduciaries, prioritizing user interests above all else.  The party providing the AI Agent technology to users, in this context, also forms a legal principal-agent relationship with that user. These agents can be bound by a "duty of loyalty" to their users, creating a trustworthy foundation for autonomous transactions. This fiduciary approach is especially important in the context of transactions, where financial and legal ramifications can be significant.
